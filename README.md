@@ -4,6 +4,8 @@ I developed this tool to easily caption, tag, and mask image datasets for finetu
 
 (for finetuning SDXL with masks, see https://github.com/briansemrau/kohya-ss-sd-scripts/tree/sdxl_lora_mask)
 
+![Screenshot of the tool](readme_img.png)
+
 ### How to Run
 
 I have written a couple startup scripts that should work right off the bat.

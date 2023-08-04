@@ -1,0 +1,1 @@
+man, woman, abstract, gradient
